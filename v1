@@ -1,0 +1,11 @@
+-- this script lets you check your logs
+
+
+print("farzad, BreathingHAMON")
+
+
+
+
+
+
+game.ReplicatedStorage:WaitForChild("MainEvent")MainEvent:FireServer("BreathingHAMON")
